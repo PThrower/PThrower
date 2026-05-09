@@ -65,9 +65,9 @@
 
 <div align="center">
 
-![Parnell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333)
+![Parnell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PThrower&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=1F3864&text_color=333333)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PThrower&layout=compact&hide_border=true&title_color=1F3864&text_color=333333)
 
 </div>
 
